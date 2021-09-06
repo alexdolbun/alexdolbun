@@ -20,7 +20,16 @@
 - 🔭 I’m 🎴 <a href="https://alexdolbun.com" target="_blank">https://alexdolbun.com<a/> currently working on 🦄 <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/> and 🔉 <a href="https://muteit.app" target="_blank">https://muteit.app<a/>
 - 🌱 I’m currently learning how to DESRUPT industry of socially relevance digital product creation 🚀 🦄
 - 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">https://discord.gg/hKQc8SX9zP<a/> about working with <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="mailto:help@unicornwitnesses.com?subject=Hi%20the%20Unicorn%20Witnesses%20Community!&amp;body=Let's%20collaborate!%20🦄">help @unicornwitnesses.com</a>
-- 🤔 My team looking for help with DIGITAL PRODUCT **Sound Dev** & **Marketer** & **DevOps Global CDN** & **Community Manager** & **UI Developer** & **Researcher** & **Mobile Dev** 📢📢📢🆘
+- 🤔 My team looking for help with <a style="color:red">**SOCIALLY**</a> <span style="color:blue">**RELEVANCE**</span> <span style="color:green">**DIGITAL**</span> <span style="color:purple">**PRODUCT**</span> 
+    - 📢📢📢🆘
+    - **Sound Dev** & 
+    - **Marketer** & 
+    - **DevOps Global CDN** & 
+    - **Community Manager** & 
+    - **UI Developer** & 
+    - **Researcher** & 
+    - **Mobile Dev** &
+    - 📢📢📢🆘
 - 💬 Ask me about BusDev, ITIL integration, One-one-One, Digital Product Quality Assistance, OSS integration
 - 📫 How to reach me: alexdolbun@icloud.com or <a href="https://alexdolbun.com" target="_blank">https://alexdolbun.com<a/>
 - ⚡ Fun fact: I love DISRUPT 🦄🚀
