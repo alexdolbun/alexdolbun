@@ -35,6 +35,10 @@
 - ⚡ Fun fact: I love DISRUPT 🦄🚀
     
 ---
+   
+## Gamification of GitHub 🎰
+    
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&margin-w=15&margin-h=15&&no-frame=true&row=1no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
     
 ## Stats📈
     
@@ -57,7 +61,19 @@
         <a/>
     </td>
 </table>
+      
 ---
     
 ## Support Me💰
- <a href="https://www.buymeacoffee.com/alexdolbun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  <td>
+    <a href="https://www.buymeacoffee.com/alexdolbun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Aleksei Dolgikh @alexdolbun Buy Me A Coffee" width="250" >
+    </a>
+  </td>
+  <td>
+    <a href="https://www.patreon.com/alexdolbun" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Aleksei Dolgikh @alexdolbun Patreon" width="250" >
+    </a>
+  </td>
+  </tr>
+</table>
