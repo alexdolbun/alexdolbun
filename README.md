@@ -35,6 +35,7 @@
 - ⚡ Fun fact: I love DISRUPT 🦄🚀
     
 ---
+## Stats📈
     
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
@@ -55,3 +56,6 @@
         <a/>
     </td>
 </table>
+---
+## Support Me💰
+ <a href="https://www.buymeacoffee.com/alexdolbun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
