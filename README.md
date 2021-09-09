@@ -1,4 +1,4 @@
-<h1 align="center"> 🎴 Hi there 👋 It's Aleksei Dolgikh the CVO, Digital product quality assurance pipeline innovator & ITIL integrator at <a href="https://github.com/unicornwitnesses" target="_blank">Unicorn Witnesses on GitHub<a/></h1>
+<h1 align="center"> 🎴 Hi there <img src="https://komarev.com/ghpvc/?username=alexdolbun&label=People%20visit%20this%20profile&color=blueviolet&style=flat-square" alt="alexdolbun github profil visit" /> It's Aleksei Dolgikh the CVO, Digital product quality assurance pipeline innovator & ITIL integrator at <a href="https://github.com/unicornwitnesses" target="_blank">Unicorn Witnesses on GitHub<a/></h1>
 
 <p align="center">
   <a href="https://unicornwitnesses.com" target="_blank">
@@ -37,16 +37,21 @@
 ---
     
 <table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
+   <tr>
     <td>
-      <a href="https://github.com/alexdolbun" target="_blank">
+      <a href="https://alexdolbun.com" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
-      <a href="https://github.com/alexdolbun" target="_blank">
+      <a href="https://alexdolbun.com" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdolbun&layout=compact&theme=tokyonight">
       <a/>
     </td>
    </tr>
+  <td>
+      <a href="https://alexdolbun.com" target="_blank">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexdolbun&theme=highcontrast" alt="alexdolbun streak stats" />
+        <a/>
+    </td>
 </table>
