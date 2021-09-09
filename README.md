@@ -38,7 +38,7 @@
    
 ## Gamification of GitHub 🎰
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexdolbun&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](New)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexdolbun&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](alexdolbun gamification of github by https://github.com/ryo-ma/github-profile-trophy)
     
 ## Stats📈
     
@@ -46,22 +46,29 @@
    <tr>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=tokyonight" 
+             alt="alexdolbun github stats">
       <a/>
     </td>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdolbun&layout=compact&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdolbun&theme=tokyonight" alt="alexdolbun language stats">
       <a/>
     </td>
    </tr>
   <tr>
-  <td>
+  <tr>
+    <td>
       <a href="https://alexdolbun.com" target="_blank">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexdolbun&theme=highcontrast" alt="alexdolbun streak stats" />
-        <a/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdolbun&theme=tokyonight" alt="alexdolbun streak stats">
+      <a/>
     </td>
-    </tr>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="(https://github-readme-stats.vercel.app/api/wakatime?username=alexdolbun&theme=tokyonight" alt="alexdolbun Language usage time">
+      <a/>
+    </td>
+   </tr>
 </table>
       
 ---
