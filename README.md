@@ -46,8 +46,7 @@
    <tr>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=tokyonight" 
-             alt="alexdolbun github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=tokyonight" alt="alexdolbun github stats">
       <a/>
     </td>
     <td>
@@ -65,7 +64,7 @@
     </td>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="(https://github-readme-stats.vercel.app/api/wakatime?username=alexdolbun&theme=tokyonight" alt="alexdolbun Language usage time">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alexdolbun&theme=tokyonight" alt="alexdolbun Language usage time">
       <a/>
     </td>
    </tr>
