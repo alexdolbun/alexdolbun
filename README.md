@@ -38,7 +38,15 @@
    
 ## Gamification of GitHub 🎰
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexdolbun&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](alexdolbun gamification of github by https://github.com/ryo-ma/github-profile-trophy)
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td>
+      <a href="https://alexdolbun.com" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=alexdolbun&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true" alt="alexdolbun gamification of github by https://github.com/ryo-ma/github-profile-trophy online setup here: https://github-readme-streak-stats.herokuapp.com/demo/">
+      <a/>
+    </td>
+   </tr>
+</table>  
     
 ## Stats📈
     
@@ -46,12 +54,12 @@
    <tr>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=tokyonight" alt="alexdolbun github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=alexdolbun&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="alexdolbun github stats">
       <a/>
     </td>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdolbun&theme=tokyonight" alt="alexdolbun language stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdolbun&theme=github_dark&layout=compact&hide_border=true" alt="alexdolbun language stats">
       <a/>
     </td>
    </tr>
@@ -59,12 +67,12 @@
   <tr>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdolbun&theme=tokyonight" alt="alexdolbun streak stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=alexdolbun&theme=tokyonight_duo&hide_border=true" alt="alexdolbun streak stats">
       <a/>
     </td>
     <td>
       <a href="https://alexdolbun.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alexdolbun&theme=tokyonight" alt="alexdolbun Language usage time">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexdolbun&repo=alexdolbun&theme=github_dark&hide_border=true" alt="alexdolbun Language usage time">
       <a/>
     </td>
    </tr>
