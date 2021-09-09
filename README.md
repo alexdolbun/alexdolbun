@@ -1,4 +1,4 @@
-<h1 align="center"> 🎴 Hi there <img src="https://komarev.com/ghpvc/?username=alexdolbun&label=People%20visit%20this%20profile&color=blueviolet&style=flat-square" alt="alexdolbun github profil visit" /> It's Aleksei Dolgikh the CVO, Digital product quality assurance pipeline innovator & ITIL integrator at <a href="https://github.com/unicornwitnesses" target="_blank">Unicorn Witnesses on GitHub<a/></h1>
+<h1 align="center"> 🎴 Hi there <img src="https://komarev.com/ghpvc/?username=alexdolbun&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="alexdolbun github profil visit" /> It's Aleksei Dolgikh the CVO, Digital product quality assurance pipeline innovator & ITIL integrator at <a href="https://github.com/unicornwitnesses" target="_blank">Unicorn Witnesses on GitHub<a/></h1>
 
 <p align="center">
   <a href="https://unicornwitnesses.com" target="_blank">
@@ -55,11 +55,13 @@
       <a/>
     </td>
    </tr>
+  <tr>
   <td>
       <a href="https://alexdolbun.com" target="_blank">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexdolbun&theme=highcontrast" alt="alexdolbun streak stats" />
         <a/>
     </td>
+    </tr>
 </table>
       
 ---
