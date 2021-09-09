@@ -38,7 +38,7 @@
    
 ## Gamification of GitHub 🎰
     
-    [![trophy](https://github-profile-trophy.vercel.app/?username=alexdolbun&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](New)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexdolbun&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](New)
     
 ## Stats📈
     
