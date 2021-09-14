@@ -11,19 +11,34 @@
     <img alt="Aleksei Dolgikh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
   <a href="https://twitter.com/alexdolbun" target="_blank">
-    <img alt="@alexdolbun Twitter Follow" src="https://img.shields.io/twitter/follow/alexdolbun?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
+  <a/>
+    </br>
+  <strong> FOLLOW Community teammate who follow you back  </strong>
+ </br>
+  <a href="https://twitter.com/KhristenkoE" target="_blank">
+    <img alt="KhristenkoE GitHub followers" src="https://img.shields.io/github/followers/KhristenkoE?label=FOLLOW%20KhristenkoE&logo=github&style=for-the-badge">
+  <a/>
+  <a href="https://twitter.com/maximlitvinov" target="_blank">
+    <img alt="maximlitvinov GitHub followers" src="https://img.shields.io/github/followers/maximlitvinov?label=FOLLOW%20MaximLitvinov&logo=github&style=for-the-badge">
+  <a/>
+  <a href="https://twitter.com/alexsnoor" target="_blank">
+    <img alt="alexsnoor GitHub followers" src="https://img.shields.io/github/followers/alexsnoor?label=FOLLOW%20AlexVerevkin&logo=github&style=for-the-badge">
+  <a/>
+  <a href="https://twitter.com/Olianayda" target="_blank">
+    <img alt="Olianayda GitHub followers" src="https://img.shields.io/github/followers/Olianayda?label=FOLLOW%20OliaNayda&logo=github&style=for-the-badge">
   <a/>
 </p>
 
----
     
-- 🔭 I’m 🎴 <a href="https://alexdolbun.com" target="_blank">https://alexdolbun.com<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/> and 🔉 <a href="https://muteit.app" target="_blank">https://muteit.app<a/>
+- 🔭 I’m 🎴 <a href="https://alexdolbun.com?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://alexdolbun.com<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/> and env- healthcare tech 🔉 <a href="https://muteit.app?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://muteit.app<a/>
 - 🌱 I’m currently learning how to DESRUPT industry of socially relevance digital product creation 🚀 🦄
-- 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">https://discord.gg/hKQc8SX9zP<a/> about working with <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="mailto:help@unicornwitnesses.com?subject=Hi%20the%20Unicorn%20Witnesses%20Community!&amp;body=Let's%20collaborate!%20🦄">help @unicornwitnesses.com</a>
+- 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">UNICORN WITNESSES COMMUNITY DISCORD<a/> about working with <a href="https://unicornwitnesses.com?utm_content=githubtextdiscord&utm_medium=social&utm_source=github.com" target="_blank">https://unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="mailto:help@unicornwitnesses.com?subject=Hi%20the%20Unicorn%20Witnesses%20Community!&amp;body=Let's%20collaborate!%20🦄">help @unicornwitnesses.com</a>
 - 🤔 **COMMUNITY OF TEAMMATES LOOKING FOR HELP** with <a style="color:red">**SOCIALLY**</a> <span style="color:blue">**RELEVANCE**</span> <span style="color:green">**DIGITAL**</span> <span style="color:purple">**PRODUCT**</span> 
     - 📢📢📢🆘  
     
     <table align="center" cellspacing="0" cellpadding="0" border="0">
+      <caption>Table with a list of roles and descriptions of expectations of the teammates we are looking for. Swipe left 🙏</caption>
       <tr>
         <td nowrap>
           <h2><a href="https://unicornwitnesses.com?utm_content=githubtablesounddev&utm_medium=social&utm_source=github.com" target="_blank"> ⭐️ 🔊 Sound Developer ➡️</a></h2>
