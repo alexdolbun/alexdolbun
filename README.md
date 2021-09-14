@@ -16,16 +16,16 @@
     </br>
   <strong> FOLLOW Community teammate who follow you back  </strong>
  </br>
-  <a href="https://twitter.com/KhristenkoE" target="_blank">
+  <a href="https://github.com/KhristenkoE" target="_blank">
     <img alt="KhristenkoE GitHub followers" src="https://img.shields.io/github/followers/KhristenkoE?label=FOLLOW%20KhristenkoE&logo=github&style=for-the-badge">
   <a/>
-  <a href="https://twitter.com/maximlitvinov" target="_blank">
+  <a href="https://github.com/maximlitvinov" target="_blank">
     <img alt="maximlitvinov GitHub followers" src="https://img.shields.io/github/followers/maximlitvinov?label=FOLLOW%20MaximLitvinov&logo=github&style=for-the-badge">
   <a/>
-  <a href="https://twitter.com/alexsnoor" target="_blank">
+  <a href="https://github.com/alexsnoor" target="_blank">
     <img alt="alexsnoor GitHub followers" src="https://img.shields.io/github/followers/alexsnoor?label=FOLLOW%20AlexVerevkin&logo=github&style=for-the-badge">
   <a/>
-  <a href="https://twitter.com/Olianayda" target="_blank">
+  <a href="https://github.com/Olianayda" target="_blank">
     <img alt="Olianayda GitHub followers" src="https://img.shields.io/github/followers/Olianayda?label=FOLLOW%20OliaNayda&logo=github&style=for-the-badge">
   <a/>
 </p>
