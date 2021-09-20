@@ -28,6 +28,9 @@
   <a href="https://github.com/Olianayda" target="_blank">
     <img alt="Olianayda GitHub followers" src="https://img.shields.io/github/followers/Olianayda?label=FOLLOW%20OliaNayda&logo=github&style=for-the-badge">
   <a/>
+  <a href="https://github.com/HakasLepehen" target="_blank">
+    <img alt="Pavel Petrov GitHub followers" src="https://img.shields.io/github/followers/HakasLepehen?label=FOLLOW%20Pavel%20Petrov&logo=github&style=for-the-badge">
+  <a/>
 </p>
 
     
