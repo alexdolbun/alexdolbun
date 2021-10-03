@@ -41,7 +41,7 @@
     - 📢📢📢🆘  
     
     <table align="center" cellspacing="0" cellpadding="0" border="0">
-      <caption>Table with a list of roles and descriptions of expectations of the teammates we are looking for. Swipe left 🙏</caption>
+      <caption><h2>Table with a list of roles and descriptions of expectations of the teammates we are looking for. Swipe left 🙏</h2></caption>
       <tr>
         <td nowrap>
           <h2><a href="https://unicornwitnesses.com?utm_content=githubtablesounddev&utm_medium=social&utm_source=github.com" target="_blank"> ⭐️ 🔊 Sound Developer ➡️</a></h2>
