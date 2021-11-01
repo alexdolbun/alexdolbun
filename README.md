@@ -19,6 +19,9 @@
   <a href="https://github.com/KhristenkoE" target="_blank">
     <img alt="KhristenkoE GitHub followers" src="https://img.shields.io/github/followers/KhristenkoE?label=FOLLOW%20KhristenkoE&logo=github&style=for-the-badge">
   <a/>
+  <a href="https://github.com/luckybusted" target="_blank">
+    <img alt="luckybusted GitHub followers" src="https://img.shields.io/github/followers/luckybusted?label=FOLLOW%luckybusted&logo=github&style=for-the-badge">
+  <a/>
   <a href="https://github.com/maximlitvinov" target="_blank">
     <img alt="maximlitvinov GitHub followers" src="https://img.shields.io/github/followers/maximlitvinov?label=FOLLOW%20MaximLitvinov&logo=github&style=for-the-badge">
   <a/>
