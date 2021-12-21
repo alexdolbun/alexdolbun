@@ -1,38 +1,41 @@
-<h1 align="center"> 🎴 H̸̰̭̒̋̎̆î̴͚̇ ̸̨͚̮̥̐͗̐̈ͅt̸͈̩̻͐̂̀̽͂͗͑̄̊h̵̡̥̭͐̾̌͑e̷̟̲̖̩̫͋́́̀̍̀͛͆ŕ̶͈͕̣̠̲ȩ̷͙̯͂̅̑̓͗̚ <img src="https://komarev.com/ghpvc/?username=alexdolbun&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="alexdolbun github profil visit" /> It's <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh<a/> the CVO, Digital product quality assurance pipeline innovator & ITIL integrator at <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴%20THANKS&color=blueviolet&style=flat-square" alt="alexdolbun github profil visit" /> from <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh<a/> the CVO, Digital product quality assurance pipeline innovator & ITIL integrator at <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/></h1>
 
 <p align="center">
   <a href="https://unicornwitnesses.com" target="_blank">
-    <img alt="Unicorn Witnesses Web Site" src="https://img.shields.io/badge/WWW%20of%20Unicorn%20Witnesses-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+    <img alt="UnicornWitnesses.com" src="https://img.shields.io/badge/UnicornWitnesses.com-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    <a/>
   <a href="https://discord.gg/hKQc8SX9zP" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/discord/826069747179061260?logo=discord&logoColor=white&style=for-the-badge">
+    <img alt="GOTO 🚀 UnicornWitnesses.com Discord Community Server" src="https://img.shields.io/discord/826069747179061260?label=UnicornWitnessesCommunity&logo=discord&logoColor=white&style=for-the-badge">
    <a/>
   <a href="https://linkedin.com/in/alexdolbun" target="_blank">
-    <img alt="Aleksei Dolgikh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Aleksei Dolgikh Linkedin Connect" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
   <a href="https://twitter.com/alexdolbun" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
+    <img alt="IT CVO Aleksei Dolgikh Twitter Profile" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=Aleksei%20Dolgikh&logo=twitter&style=for-the-badge">
   <a/>
     </br>
   <strong> FOLLOW Community teammate who follow you back  </strong>
  </br>
   <a href="https://github.com/KhristenkoE" target="_blank">
-    <img alt="KhristenkoE GitHub followers" src="https://img.shields.io/github/followers/KhristenkoE?label=FOLLOW%20KhristenkoE&logo=github&style=for-the-badge">
+    <img alt="CTO Evgeniy Khristenko GitHub Profile" src="https://img.shields.io/github/followers/KhristenkoE?label=CTO%20Evgeniy%20Khristenko&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/luckybusted" target="_blank">
-    <img alt="luckybusted GitHub followers" src="https://img.shields.io/github/followers/luckybusted?label=FOLLOW%20luckybusted&logo=github&style=for-the-badge">
-  <a/>
-  <a href="https://github.com/maximlitvinov" target="_blank">
-    <img alt="maximlitvinov GitHub followers" src="https://img.shields.io/github/followers/maximlitvinov?label=FOLLOW%20MaximLitvinov&logo=github&style=for-the-badge">
-  <a/>
-  <a href="https://github.com/alexsnoor" target="_blank">
-    <img alt="alexsnoor GitHub followers" src="https://img.shields.io/github/followers/alexsnoor?label=FOLLOW%20AlexVerevkin&logo=github&style=for-the-badge">
-  <a/>
-  <a href="https://github.com/Olianayda" target="_blank">
-    <img alt="Olianayda GitHub followers" src="https://img.shields.io/github/followers/Olianayda?label=FOLLOW%20OliaNayda&logo=github&style=for-the-badge">
+    <img alt="Digital Product Dev/Senior Ivan Ushmorov GitHub Profile" src="https://img.shields.io/github/followers/luckybusted?label=Ivan%20Ushmorov&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/HakasLepehen" target="_blank">
-    <img alt="Pavel Petrov GitHub followers" src="https://img.shields.io/github/followers/HakasLepehen?label=FOLLOW%20Pavel%20Petrov&logo=github&style=for-the-badge">
+    <img alt="Digital Product Dev/Full Pavel Petrov GitHub Profile" src="https://img.shields.io/github/followers/HakasLepehen?label=Pavel%20Petrov&logo=github&style=for-the-badge">
+  <a/>
+  <a href="https://github.com/Parselian" target="_blank">
+    <img alt="Digital Product Dev/Full Vyacheslav Vozhdaev GitHub Profile" src="https://img.shields.io/github/followers/Parselian?label=Vyacheslav%20Vozhdaev&logo=github&style=for-the-badge">
+  <a/>  
+  <a href="https://github.com/maximlitvinov" target="_blank">
+    <img alt="Digital Product Dev/J Maxim Litvinov GitHub Profile" src="https://img.shields.io/github/followers/maximlitvinov?label=Maxim%20Litvinov&logo=github&style=for-the-badge">
+  <a/>
+  <a href="https://github.com/alexsnoor" target="_blank">
+    <img alt="Digital Product Dev/J Alexandr Verevkin GitHub Profile" src="https://img.shields.io/github/followers/alexsnoor?label=AlexVerevkin&logo=github&style=for-the-badge">
+  <a/>
+  <a href="https://github.com/Olianayda" target="_blank">
+    <img alt="CDO, Digital product designer Olia Nayda GitHub Profile" src="https://img.shields.io/github/followers/Olianayda?label=Olga%20Nayda&logo=github&style=for-the-badge">
   <a/>
 </p>
 
