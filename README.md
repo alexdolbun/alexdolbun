@@ -14,7 +14,7 @@
     <img alt="IT CVO Aleksei Dolgikh Twitter Profile" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=Aleksei%20Dolgikh&logo=twitter&style=for-the-badge">
   <a/>
     </br>
-  <strong> FOLLOW Community teammate who follow you back  </strong>
+  <strong> FOLLOW Community teammate who follow you BACK if <a href="https://discord.gg/hKQc8SX9zP" target="_blank">your text to them in UnicornWitnesses Discord Server<a/></strong>
  </br>
   <a href="https://github.com/KhristenkoE" target="_blank">
     <img alt="CTO Evgeniy Khristenko GitHub Profile" src="https://img.shields.io/github/followers/KhristenkoE?label=CTO%20Evgeniy%20Khristenko&logo=github&style=for-the-badge">
