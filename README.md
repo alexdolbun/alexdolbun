@@ -25,6 +25,9 @@
   <a href="https://github.com/HakasLepehen" target="_blank">
     <img alt="Digital Product Dev/Full Pavel Petrov GitHub Profile" src="https://img.shields.io/github/followers/HakasLepehen?label=Pavel%20Petrov&logo=github&style=for-the-badge">
   <a/>
+      <a href="https://github.com/kubasovp" target="_blank">
+    <img alt="Digital Product Dev/Full Peter Kubasov GitHub Profile" src="https://img.shields.io/github/followers/kubasovp?label=Peter%20Kubasov&logo=github&style=for-the-badge">
+  <a/>
   <a href="https://github.com/Parselian" target="_blank">
     <img alt="Digital Product Dev/Full Vyacheslav Vozhdaev GitHub Profile" src="https://img.shields.io/github/followers/Parselian?label=Vyacheslav%20Vozhdaev&logo=github&style=for-the-badge">
   <a/>  
@@ -32,10 +35,10 @@
     <img alt="Digital Product Dev/J Maxim Litvinov GitHub Profile" src="https://img.shields.io/github/followers/maximlitvinov?label=Maxim%20Litvinov&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/alexsnoor" target="_blank">
-    <img alt="Digital Product Dev/J Alexandr Verevkin GitHub Profile" src="https://img.shields.io/github/followers/alexsnoor?label=AlexVerevkin&logo=github&style=for-the-badge">
+    <img alt="Digital Product Dev/J Alexandr Verevkin GitHub Profile" src="https://img.shields.io/github/followers/alexsnoor?label=Alexandr%20Verevkin&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/Olianayda" target="_blank">
-    <img alt="CDO, Digital product designer Olia Nayda GitHub Profile" src="https://img.shields.io/github/followers/Olianayda?label=Olga%20Nayda&logo=github&style=for-the-badge">
+    <img alt="CDO, Digital product designer Olia Nayda GitHub Profile" src="https://img.shields.io/github/followers/Olianayda?label=CDO%20Olga%20Nayda&logo=github&style=for-the-badge">
   <a/>
 </p>
 
@@ -201,6 +204,12 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
     <td>
 		<a href="https://evgenykhristenko.com?utm_content=
 unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">Evgeny Khristenko CTO -> evgenykhristenko.com</a>
+			</td>
+   </tr>
+    <tr>
+    <td>
+		<a href="https://pavelpetrov.xyz?utm_content=
+unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">Pavel Petrov Digital Web Developer -> pavelpetrov.xyz</a>
 			</td>
    </tr>
 	<tr>
