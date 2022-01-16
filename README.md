@@ -180,6 +180,10 @@
     <a href="https://www.patreon.com/alexdolbun" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Aleksei Dolgikh @alexdolbun Patreon" width="250" >
     </a>
   </td>
+      <td>
+    <a href="https://www.paypal.com/paypalme/alexdolbun" target="_blank"><img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" alt="Aleksei Dolgikh @alexdolbun PayPal" width="250" >
+    </a>
+  </td>
   </tr>
 </table>
 
@@ -216,6 +220,12 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
     <td>
 		<a href="https://usmrv.com?utm_content=
 unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">Ivan Ushmorov Senior Digital product developer -> usmrv.com</a>
+			</td>
+   </tr>
+    <tr>
+    <td>
+		<a href="https://rdsgn.ru/cv.html?utm_content=
+unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">Peter Kubasov Digital product developer -> rdsgn.ru/cv.html</a>
 			</td>
    </tr>
 	<tr>
