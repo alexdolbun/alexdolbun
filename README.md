@@ -25,6 +25,9 @@
   <a href="https://github.com/HakasLepehen" target="_blank">
     <img alt="Digital Product Dev/Full Pavel Petrov GitHub Profile" src="https://img.shields.io/github/followers/HakasLepehen?label=Pavel%20Petrov&logo=github&style=for-the-badge">
   <a/>
+	  <a href="https://github.com/arseniypom" target="_blank">
+    <img alt="Lead Digital Product Dev/Full Vyacheslav Vozhdaev GitHub Profile" src="https://img.shields.io/github/followers/arseniypom?label=Lead%20Dev%20Arseniy%20Pomazkov&logo=github&style=for-the-badge">
+  <a/>  
       <a href="https://github.com/kubasovp" target="_blank">
     <img alt="Digital Product Dev/Full Peter Kubasov GitHub Profile" src="https://img.shields.io/github/followers/kubasovp?label=Peter%20Kubasov&logo=github&style=for-the-badge">
   <a/>
@@ -39,6 +42,10 @@
   <a/>
   <a href="https://github.com/Olianayda" target="_blank">
     <img alt="CDO, Digital product designer Olia Nayda GitHub Profile" src="https://img.shields.io/github/followers/Olianayda?label=CDO%20Olga%20Nayda&logo=github&style=for-the-badge">
+  <a/>
+  <a/>
+  <a href="https://github.com/lucydontcry" target="_blank">
+    <img alt="Product analyst Lucy Кovaleva GitHub Profile" src="https://img.shields.io/github/followers/lucydontcry?label=Product%20analyst%20Lucy%20Кovaleva&logo=github&style=for-the-badge">
   <a/>
 </p>
 
