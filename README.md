@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴%20THANKS&color=blueviolet&style=flat-square" alt="alexdolbun github profil visit" /> from <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh<a/> the CVO, Digital product quality assurance pipeline innovator & ITIL integrator at <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh: CVO Scout VC<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/></h1>
 
 <p align="center">
   <a href="https://unicornwitnesses.com" target="_blank">
@@ -45,7 +45,7 @@
   <a/>
   <a/>
   <a href="https://github.com/lucydontcry" target="_blank">
-    <img alt="Product analyst Lucy Кovaleva GitHub Profile" src="https://img.shields.io/github/followers/lucydontcry?label=Product%20analyst%20Lucy%20Кovaleva&logo=github&style=for-the-badge">
+    <img alt="Product analyst Lucy Кovaleva GitHub Profile" src="https://img.shields.io/github/followers/lucydontcry?label=Product%20analyst%20Lucy%20Kovaleva&logo=github&style=for-the-badge">
   <a/>
 </p>
 
