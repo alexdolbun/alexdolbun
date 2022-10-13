@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh: CVO Scout VC<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/> GLOCAL strategy through SEO and  Serverless <a href="https://eglote.com?utm_content=egloteteammate&utm_medium=web&utm_source=eglote.com" target="_blank">B2B SaaS Eglote.com<a/></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh: CVO Scout VC<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/> GLOCAL strategy through SEO and  Serverless <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" target="_blank">B2B SaaS GLOC.AL<a/></h1>
 
 <p align="center">
   <a href="https://unicornwitnesses.com" target="_blank">
@@ -16,8 +16,8 @@
     </br>
   <strong> FOLLOW Community teammate who follow you BACK if <a href="https://discord.gg/hKQc8SX9zP" target="_blank">your text to them in UnicornWitnesses Discord Server<a/></strong>
  </br>
-  <a href="https://github.com/KhristenkoE" target="_blank">
-    <img alt="CTO Evgeniy Khristenko GitHub Profile" src="https://img.shields.io/github/followers/KhristenkoE?label=CTO%20Evgeniy%20Khristenko&logo=github&style=for-the-badge">
+  <a href="https://github.com/Olianayda" target="_blank">
+    <img alt="CDO, Digital product designer Olia Nayda GitHub Profile" src="https://img.shields.io/github/followers/Olianayda?label=CDO%20Olga%20Nayda&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/luckybusted" target="_blank">
     <img alt="Digital Product Dev/Senior Ivan Ushmorov GitHub Profile" src="https://img.shields.io/github/followers/luckybusted?label=Ivan%20Ushmorov&logo=github&style=for-the-badge">
@@ -40,9 +40,8 @@
   <a href="https://github.com/alexsnoor" target="_blank">
     <img alt="Digital Product Dev/J Alexandr Verevkin GitHub Profile" src="https://img.shields.io/github/followers/alexsnoor?label=Alexandr%20Verevkin&logo=github&style=for-the-badge">
   <a/>
-  <a href="https://github.com/Olianayda" target="_blank">
-    <img alt="CDO, Digital product designer Olia Nayda GitHub Profile" src="https://img.shields.io/github/followers/Olianayda?label=CDO%20Olga%20Nayda&logo=github&style=for-the-badge">
-  <a/>
+  <a href="https://github.com/KhristenkoE" target="_blank">
+    <img alt="CTO Evgeniy Khristenko GitHub Profile" src="https://img.shields.io/github/followers/KhristenkoE?label=DEV%20Evgeniy%20Khristenko&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/lucydontcry" target="_blank">
     <img alt="Product analyst Lucy Кovaleva GitHub Profile" src="https://img.shields.io/github/followers/lucydontcry?label=Product%20analyst%20Lucy%20Kovaleva&logo=github&style=for-the-badge">
