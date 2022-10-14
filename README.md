@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh: CVO Scout VC<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/> GLOCAL strategy through SEO and  Serverless <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" target="_blank">B2B SaaS GLOC.AL<a/></h1>
 
 <p align="center">
+	<a href="https://www.f6s.com/alexdolbun?follow=1" target="_blank" title="Follow Aleksei Dolgikh on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="98" height="35" alt="Follow Aleksei Dolgikh on F6S" style="width: 98px; height: 35px; padding: 0px; margin: 0px;" /></a>
   <a href="https://unicornwitnesses.com" target="_blank">
     <img alt="UnicornWitnesses.com" src="https://img.shields.io/badge/UnicornWitnesses.com-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    <a/>
