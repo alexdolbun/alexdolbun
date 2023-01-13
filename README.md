@@ -264,4 +264,40 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
 			</td>
    </tr>
 </table>
-
+	 <h2> 🎴 Chief Visionary Officer aka CVO Scout VC Aleksei Dolgikh (https://alexdolbun.com) at Community </h2>
+	  
+	  <p>
+	  0 Unicorn witnesses: The international non-profit community of socially-relevant digital products creators (https://unicornwitnesses.com) 0 & Chief Visionary Officer & Co-Founder. 0 Gloc.al SEO leadgen in 100 plus countries and languages (http://He.Gloc.al) is a Search Engine Optimisation lead generation in 100 plus countries and languages 0 who in5 Dubai incubated Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF)
+	  </p>
+<h2> 1. Introduction to Chief Visionary Officer Aleksei Dolgikh </h2>
+	  <p>
+Aleksei Dolgikh is the chief visionary officer at Community 0 Unicorn Witnesses – an international non-profit community of socially-relevant digital product creators – in addition to being a co-founder and the Gloc.al SEO leadgen in 100 plus countries and languages. He is currently based in Dubai, where he is incubating a Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF) are all part of his work as a CVO.
+	  </p>
+<h2> 2. Chief Visionary Officer Aleksei Dolgikh's Career</h2>
+	<p>
+Aleksei Dolgikh has been in the technology industry for over a decade. His professional experience stretches from being part of the founding teams of some of the fastest-growing startups to #1 best selling mobile app in USA to leading CRM / Database implementation, from the innovative development of interactive television systems (analog and digital) to Award-winning web applications design and implementation. His experience covers a broad range of topics from software engineering and development, through research and mission-critical systems, to dream up insights related technologies development.
+	  </p>
+<h2> 3. Aleksei Dolgikh's Experience with Digital Product Design</h2>
+	<p>
+As a digital product designer, Aleksei has extensive qualifications and experience working on user interface _ design, usability and user experience _ design, usability testing, information architecture _ design and content strategy. His expertise involves other aspects like physical design, interactive prototyping and user __ journey mapping which enables him to create and deliver end-to-end digital products that are both attractive and easy to use with the right experience.  
+	  </p>
+<h2> 4. Aleksei Dolgikh's Experience with SEO & Localisation Services</h2>
+	<p>
+Aleksei has deep experience optimizing websites for search engines and delivering localized versions for multiple countries. He helps clients maximize the benefits of organic reach for local markets by adjusting websites for language requirements and organic search engine results page positioning of their websites or applications. In addition, Aleksei provides relevant data insights from analytics tools to track search engine positioning while validating language usage analytics outcomes such as dwell time or click through rates.  
+	  </p>
+<h2> 5. Aleksei Dolgikh's Footprint with ITIL & Cloud Computing</h2>
+	<p>
+Alongside CVO duties, Aleksei Dolgikh also provides his expertise in IT Infrastructure Library (ITIL) process optimization and Cloud Native Computing Foundation (CNCF) initiatives. Aleksei maintains an understanding of customers needs when it comes to Service Level Agreements, Incident & Change Management while incorporating DevOps technology components such as automated CI/CD pipeline configurations with appropriate cloud provider services such as Kubernetes orchestrated container platforms or leveraged distributed storage solutions. 
+	  </p>
+<h2> 6. Aleksei Dolgikh's Involvement with Business Development & Projects Requirements</h2>
+	<p>
+Business Development activities and Projects Requirements Documentation constitute another aspect of Aleksei's multi-faceted tasks as CVO for Community 0 Unicorn Witnesses and Co-Founder Gloc.al SEO Leadgen in 100 plus countries and their languages. In these roles he interacts directly with stakeholders from all sectors from management to team members on a daily basis which requires strong relationship building, problem solving skills and management consulting competencies which combine presenting himself in the best light but still enabling clients to make data informed decisions based on user parameters and ROI considerations. 	  
+	  </p>
+<h2> 7. Aleksei Dolgikh's Involvement with Open Source Software (OSS) </h2>
+	<p>
+Aleksei Dolgikh is also heavily involved in Open Source Software (OSS) development having released dozens of projects over the last few years contributing to its scaling while helping third party technology partners to integrate OSS solutions into their IoT ecosystems in order to enable machines to communicate amongst each other without human intervention or manual overrides up until making informed decisions according to their own individual context. 
+	  </p>
+<h2> 8. Aleksei Dolgikh's Workflow Process with one-on-one Meetings </h2>
+	<p>
+To complete his multi-sector tasks involving business development strategy, projects requirements definitions or IT process optimization for specific customer needs along side OS efforts or cloud native architectures deployment, Aleksei has implemented an extensive one-on-one workflow process that involves finding out customer goals upfront before proceeding in order to better understand their mindset for what the project should deliver but also operate within budget parameters until launching iteratively towards success criteria according to predetermined goals established during the initial consultation meeting	  
+	  </p>
