@@ -208,7 +208,7 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
 		<tr>
     <td>
 		<a href="https://alexdolbun.com?utm_content=
-unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">Alkesei Dolgikh CVO -> alexdolbun.com</a>
+unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank" rel="dofollow">Alkesei Dolgikh CVO -> alexdolbun.com</a>
 			</td>
    </tr>
 	<tr>
@@ -267,14 +267,14 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
 	 <h2> 
 		 🎴 Chief Visionary Officer aka CVO Scout VC Aleksei Dolgikh (https://alexdolbun.com) at NPO Community Unicorn witnesses
 	  </h2>
-	  
-	  
 		
-<img src="https://github.com/alexdolbun/alexdolbun-hub/blob/448bf01e861f34e2952f574e7f63745f32a66d99/assets/img/aleksei-dolgikh.gif" alt="Aleksei Dolgikh" width="100" height="132">
+<img src="https://github.com/alexdolbun/alexdolbun-hub/blob/448bf01e861f34e2952f574e7f63745f32a66d99/assets/img/aleksei-dolgikh.gif" alt="Aleksei Dolgikh" width="100%" height="100%">
+		
+	  <p>
 		  
 	   Unicorn witnesses: The international non-profit community of socially-relevant digital products creators (https://unicornwitnesses.com) 0 & Chief Visionary Officer & Co-Founder. 0 Gloc.al SEO leadgen in 100 plus countries and languages (http://He.Gloc.al) is a Search Engine Optimisation lead generation in 100 plus countries and languages 0 who in5 Dubai incubated Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF)
-	  
-	 
+		  
+	  </p>
 	  
 <h2> 1. Introduction to Chief Visionary Officer Aleksei Dolgikh </h2>
 	  <p>
@@ -289,13 +289,10 @@ Aleksei Dolgikh has been in the technology industry for over a decade. His profe
 As a digital product designer, Aleksei has extensive qualifications and experience working on user interface _ design, usability and user experience _ design, usability testing, information architecture _ design and content strategy. His expertise involves other aspects like physical design, interactive prototyping and user __ journey mapping which enables him to create and deliver end-to-end digital products that are both attractive and easy to use with the right experience.  
 	  </p>
 <h2> 4. Aleksei Dolgikh's Experience with SEO & Localisation Services</h2>
-	  
-	<p>
-		
-<img src="https://github.com/alexdolbun/alexdolbun-hub/blob/448bf01e861f34e2952f574e7f63745f32a66d99/assets/img/aleksei-dolgikh-glocal-hreflang-olga-nayda-creo.gif" alt="Aleksei Dolgikh Glocal Hreflang" width="100" height="132"> 
-
+<img src="https://github.com/alexdolbun/alexdolbun-hub/blob/448bf01e861f34e2952f574e7f63745f32a66d99/assets/img/aleksei-dolgikh-glocal-hreflang-olga-nayda-creo.gif" alt="Aleksei Dolgikh Glocal Hreflang" width="100%" height="100%"> 
+<p>
 Aleksei has deep experience optimizing websites for search engines and delivering localized versions for multiple countries. He helps clients maximize the benefits of organic reach for local markets by adjusting websites for language requirements and organic search engine results page positioning of their websites or applications. In addition, Aleksei provides relevant data insights from analytics tools to track search engine positioning while validating language usage analytics outcomes such as dwell time or click through rates.  
-	  </p>
+</p>
 <h2> 5. Aleksei Dolgikh's Footprint with ITIL & Cloud Computing</h2>
 	<p>
 Alongside CVO duties, Aleksei Dolgikh also provides his expertise in IT Infrastructure Library (ITIL) process optimization and Cloud Native Computing Foundation (CNCF) initiatives. Aleksei maintains an understanding of customers needs when it comes to Service Level Agreements, Incident & Change Management while incorporating DevOps technology components such as automated CI/CD pipeline configurations with appropriate cloud provider services such as Kubernetes orchestrated container platforms or leveraged distributed storage solutions. 
