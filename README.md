@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh: CVO Scout VC<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/> GLOCAL strategy through SEO and  Serverless <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" target="_blank">B2B SaaS GLOC.AL<a/></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh: CVO Scout VC<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/> GLOCAL strategy through SEO and Serverless <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" target="_blank">B2B SaaS GLOC.AL<a/> & partner at Dubai media <a href="https://CrunchDubai.com?utm_content=CrunchDubaiteammate&utm_medium=web&utm_source=github.com" target="_blank">CrunchDubai.com<a/></h1>
 
 <p align="center">
 	<a href="https://www.f6s.com/alexdolbun?follow=1" target="_blank" title="Follow Aleksei Dolgikh on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="98" height="35" alt="Follow Aleksei Dolgikh on F6S" style="width: 98px; height: 35px; padding: 0px; margin: 0px;" /></a>
@@ -95,7 +95,7 @@
           Collaborate with your teammates to create useful sounds that change depending on the surrounding noise. Along with recording sounds, we will create hashes to compare them to pre-trained models. Together, we will create a database of recorded sounds to work with your teacher (doctor) to determine the symptoms of illness.
         </td>
         <td>
-           Passionate to make product worldwide and bring our solutions to everyone. Use automation and best friends: product designer, ui developer, product data analyst, product manager. Communication building with glocal users.
+           Passionate to makeproductst worldwide and bring our solutions to everyone. Use automation and best friends: product designer, ui developer, product data analyst,and  product manager. Communication building with glocal users.
         </td>
         <td>
            By collaborating with the team, we'll work together to deliver our innovations to 200 cities around the world (with the help of @cloudflare of course 😉 ) and move into serverless solutions to save money on mine-type deliveries. Absolute freedom to post your innovations openly and help from the team to promote the developed solutions at g2.com and other software stores.
@@ -110,7 +110,7 @@
           With your teammates, we'll create a system that takes into account the guidelines of the major mobile app delivery tables. You will dictate to us your terms for development on mobile platforms.
         </td>
         <td>
-          Help product designer to conduct interviews, create hypothesis and hypothesis checking with data analyst. Help team to be update with user feedback. Teamwork with designer, product manager, ui developer, data analyst.
+          Help product designer to conduct interviews, createhypothesess and hypothesis checking with data analyst. Help team to be update with user feedback. Teamwork with designer, product manager, ui developer, data analyst.
         </td>
         <td>
            A/B testing and hypothesis creation and checking. Work with product metrics and research data. Teamwork. Best friends: product manager, product designer, ui developer, glocal marketer.
@@ -119,7 +119,7 @@
            Together with teammates, work through the quality assurance of the digital product delivery pipeline. From innovation to implementation. Together we will reduce the loss of context and automate the linking of the requirements and task management system.
         </td>
          <td>
-           Creating with the team a system to deliver 46+ languages to 200 cities. Adding OSS solutions to this system and creating an interface for users who are willing to help make the product glocal.
+           Creating with the team a system to deliver 109+ languages to 300 biggest cities worldwide. Adding OSS solutions to this system and creating an interface for users who are willing to help make the product glocal.
         </td>
       </tr>
     </table>
@@ -278,11 +278,11 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
 	  
 <h2> 1. Introduction to Chief Visionary Officer Aleksei Dolgikh </h2>
 	  <p>
-Aleksei Dolgikh is the chief visionary officer at Community 0 Unicorn Witnesses – an international non-profit community of socially-relevant digital product creators – in addition to being a co-founder and the Gloc.al SEO leadgen in 100 plus countries and languages. He is currently based in Dubai, where he is incubating a Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF) are all part of his work as a CVO.
+Aleksei Dolgikh is the chief visionary officer at Community 0 Unicorn Witnesses – an international non-profit community of socially-relevant digital product creators – in addition to being a co-founder and the Gloc.al SEO lead generation in 100-plus countries and languages. He is currently based in Dubai, where he is incubating a Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF) are all part of his work as a CVO.
 	  </p>
 <h2> 2. Chief Visionary Officer Aleksei Dolgikh's Career</h2>
 	<p>
-Aleksei Dolgikh has been in the technology industry for over a decade. His professional experience stretches from being part of the founding teams of some of the fastest-growing startups to #1 best selling mobile app in USA to leading CRM / Database implementation, from the innovative development of interactive television systems (analog and digital) to Award-winning web applications design and implementation. His experience covers a broad range of topics from software engineering and development, through research and mission-critical systems, to dream up insights related technologies development.
+Aleksei Dolgikh has been in the technology industry for over a decade. His professional experience stretches from being part of the founding teams of some of the fastest-growing startups to #1 best selling mobile app in USA to leading CRM / Database implementation, from the innovative development of interactive television systems (analog and digital) to Award-winning web applications design and implementation. His experience covers a broad range of topics from software engineering and development, through research and mission-critical systems, to dream up insights related technology development.
 	  </p>
 <h2> 3. Aleksei Dolgikh's Experience with Digital Product Design</h2>
 	<p>
@@ -305,7 +305,4 @@ Business Development activities and Projects Requirements Documentation constitu
 	<p>
 Aleksei Dolgikh is also heavily involved in Open Source Software (OSS) development having released dozens of projects over the last few years contributing to its scaling while helping third party technology partners to integrate OSS solutions into their IoT ecosystems in order to enable machines to communicate amongst each other without human intervention or manual overrides up until making informed decisions according to their own individual context. 
 	  </p>
-<h2> 8. Aleksei Dolgikh's Workflow Process with one-on-one Meetings </h2>
-	<p>
-To complete his multi-sector tasks involving business development strategy, projects requirements definitions or IT process optimization for specific customer needs along side OS efforts or cloud native architectures deployment, Aleksei has implemented an extensive one-on-one workflow process that involves finding out customer goals upfront before proceeding in order to better understand their mindset for what the project should deliver but also operate within budget parameters until launching iteratively towards success criteria according to predetermined goals established during the initial consultation meeting	  
-	  </p>
+
