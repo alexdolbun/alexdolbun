@@ -35,8 +35,8 @@
   <a href="https://github.com/Parselian" target="_blank">
     <img alt="Digital Product Dev/Full Vyacheslav Vozhdaev GitHub Profile" src="https://img.shields.io/github/followers/Parselian?label=Vyacheslav%20Vozhdaev&logo=github&style=for-the-badge">
   <a/>  
-  <a href="https://github.com/maximlitvinov" target="_blank">
-    <img alt="Digital Product Dev/J Maxim Litvinov GitHub Profile" src="https://img.shields.io/github/followers/maximlitvinov?label=Maxim%20Litvinov&logo=github&style=for-the-badge">
+  <a href="https://github.com/litvnvdev" target="_blank">
+    <img alt="Digital Product Dev/J Maxim Litvinov GitHub Profile" src="https://img.shields.io/github/followers/litvnvdev?label=Maxim%20Litvinov&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/alexsnoor" target="_blank">
     <img alt="Digital Product Dev/J Alexandr Verevkin GitHub Profile" src="https://img.shields.io/github/followers/alexsnoor?label=Alexandr%20Verevkin&logo=github&style=for-the-badge">
@@ -269,12 +269,10 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
 	  </h2>
 		
 <img src="https://github.com/alexdolbun/alexdolbun-hub/blob/448bf01e861f34e2952f574e7f63745f32a66d99/assets/img/aleksei-dolgikh.gif" alt="Aleksei Dolgikh" width="100%" height="100%">
-		
-	  <p>
+	<p>
 		  
-	   Unicorn witnesses: The international non-profit community of socially-relevant digital products creators (https://unicornwitnesses.com) 0 & Chief Visionary Officer & Co-Founder. 0 Gloc.al SEO leadgen in 100 plus countries and languages (http://He.Gloc.al) is a Search Engine Optimisation lead generation in 100 plus countries and languages 0 who in5 Dubai incubated Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF)
-		  
-	  </p>
+Unicorn witnesses: The international non-profit community of socially-relevant digital products creators (https://unicornwitnesses.com) 0 & Chief Visionary Officer & Co-Founder. 0 Gloc.al SEO leadgen in 100 plus countries and languages (http://He.Gloc.al) is a Search Engine Optimisation lead generation in 100 plus countries and languages 0 who in5 Dubai incubated Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF)
+	</p>
 	  
 <h2> 1. Introduction to Chief Visionary Officer Aleksei Dolgikh </h2>
 	  <p>
