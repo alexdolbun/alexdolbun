@@ -49,6 +49,25 @@
   <a/>
 </p>
 
+# Book a Meeting with Aleksei Dolgikh
+
+## Schedule a 15-Minute Meeting with Aleksei Dolgikh
+
+[![Book a Meeting](https://img.shields.io/badge/Book%20Meeting-Click%20Here-red?style=for-the-badge)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hkSprIOFuZghXaVnOKorcCJD1ZIUeSdJH7OVgDOKK4ptsN_lSCVVXa8BWtJavSLelNwl9NDVd?gv=true)
+
+### Meeting Details
+- **Duration:** 15 minutes
+- **Purpose:** Meaningful discussion, PROVIDE ALL POSSIBLE INFORMATION
+- **Host:** Aleksei Dolgikh
+
+### How to Book
+0. MAKE YOUR DEEP RESEARCH ABOUT TOPICK YOU WANNA SPEACK AND PREPARE TO MAKE GITHUB REPOSITORY WITH THE INFORMATION
+1. Click the "Book a Meeting" button above
+2. Choose an available time slot
+3. Confirm your appointment
+
+*Note: Times are shown in your local timezone*
+
     
 - 🔭 I’m 🎴 <a href="https://alexdolbun.com?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://alexdolbun.com<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/> and env- healthcare tech 🔉 <a href="https://muteit.app?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://muteit.app<a/>
 - 🌱 I’m currently learning how to DESRUPT industry of socially relevance digital product creation 🚀 🦄
