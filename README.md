@@ -20,6 +20,9 @@
   <a href="https://github.com/Olianayda" target="_blank">
     <img alt="CDO, Digital product designer Olia Nayda GitHub Profile" src="https://img.shields.io/github/followers/Olianayda?label=CDO%20Olga%20Nayda&logo=github&style=for-the-badge">
   <a/>
+	<a href="https://github.com/procodew22" target="_blank">
+		<img alt="CTO, Cryptocurrency lead Kiryl Martynenko GitHub Profile" src="https://img.shields.io/github/followers/procodew22?label=CTO%20Kiryl%20Martynenko&logo=github&style=for-the-badge">
+	<a/>	
   <a href="https://github.com/luckybusted" target="_blank">
     <img alt="Digital Product Dev/Senior Ivan Ushmorov GitHub Profile" src="https://img.shields.io/github/followers/luckybusted?label=Ivan%20Ushmorov&logo=github&style=for-the-badge">
   <a/>
