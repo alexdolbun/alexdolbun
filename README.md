@@ -4,7 +4,7 @@
  ![Facebook cover aleksei dolgikh](https://github.com/user-attachments/assets/76d36537-2893-4074-844a-743508bc59b9)
 
 <p align="center">
-	<a href="https://www.f6s.com/alexdolbun?follow=1" target="_blank" title="Follow Aleksei Dolgikh on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="98" height="35" alt="Follow Aleksei Dolgikh on F6S" style="width: 98px; height: 35px; padding: 0px; margin: 0px;" /></a>
+	<a href="https://www.f6s.com/alexdolbun?follow=1" target="_blank" title="Follow Aleksei Dolgikh on F6S"><img src="https://www.f6s.com/images/f6s-follow-primary.png" border="0" width="50" height="25" alt="Follow Aleksei Dolgikh on F6S" style="width: 50px; height: 25px; padding: 0px; margin: 0px;" /></a>
   <a href="https://unicornwitnesses.com" target="_blank">
     <img alt="UnicornWitnesses.com" src="https://img.shields.io/badge/UnicornWitnesses.com-FF6719?style=for-the-badge&logo=substack&logoColor=white">
    <a/>
@@ -74,7 +74,8 @@
 
 *Note: Times are shown in your local timezone*
 
-    
+![olga-nayda-photo-aleksei-dolgikh](https://github.com/user-attachments/assets/bc1b445c-fa25-42fb-86f3-d603a226c71a)
+
 - 🔭 I’m 🎴 <a href="https://alexdolbun.com?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://alexdolbun.com<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">https://unicornwitnesses.com<a/> and env- healthcare tech 🔉 <a href="https://muteit.app?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">https://muteit.app<a/>
 - 🌱 I’m currently learning how to DESRUPT industry of socially relevance digital product creation 🚀 🦄
 - 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">UNICORN WITNESSES COMMUNITY DISCORD<a/> about working with <a href="https://unicornwitnesses.com?utm_content=githubtextdiscord&utm_medium=social&utm_source=github.com" target="_blank">https://unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="mailto:help@unicornwitnesses.com?subject=Hi%20the%20Unicorn%20Witnesses%20Community!&amp;body=Let's%20collaborate!%20🦄">help @unicornwitnesses.com</a>
