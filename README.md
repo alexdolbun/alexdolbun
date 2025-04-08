@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh 2025: CVO Scout VC, Familty Offices, Limited Partners, GPs<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/> GLOCAL strategy through SEO and Serverless <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" target="_blank">GLOC.AL Search Visibility Automation Platform (for B2C and B2B the ASO / SEO / LLM visibility, MULTILINGUAL)<a/> & partner at Dubai media <a href="https://CrunchDubai.com?utm_content=CrunchDubaiteammate&utm_medium=web&utm_source=github.com" target="_blank">CrunchDubai.com Dubai's Startup and People<a/></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=alexdolbun&label=🎴->🦄->👀&color=red&style=flat-square" alt="alexdolbun github profil visit" /> on <a href="https://alexdolbun.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">Aleksei Dolgikh 2025: AGI Executive, Owner, CVO Scout VC, Familty Offices, Limited Partners, GPs<a/>, GLOCAL Digital product quality assurance pipeline innovator & ITIL & ESG criteria integrator. W/ <a href="https://unicornwitnesses.com?utm_content=githubhead&utm_medium=social&utm_source=github.com" target="_blank">UnicornWitnesses.com Community<a/> GLOCAL strategy through SEO and Serverless <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" target="_blank">GLOC.AL Search Visibility Automation Platform (for B2C and B2B the ASO / SEO / LLM visibility, MULTILINGUAL)<a/> & partner at Dubai media <a href="https://CrunchDubai.com?utm_content=CrunchDubaiteammate&utm_medium=web&utm_source=github.com" target="_blank"> since 2022 the CrunchDubai.com Dubai's Startup and People<a/></h1>
 
 	
  ![Facebook cover aleksei dolgikh](https://github.com/user-attachments/assets/76d36537-2893-4074-844a-743508bc59b9)
@@ -26,6 +26,10 @@
 	<a href="https://github.com/procodew22" target="_blank">
 		<img alt="CTO, Cryptocurrency lead Kiryl Martynenko GitHub Profile" src="https://img.shields.io/github/followers/procodew22?label=CTO%20Kiryl%20Martynenko&logo=github&style=for-the-badge">
 	<a/>	
+	<a href="https://github.com/KhurramPirov/" target="_blank">
+    <img alt="Product analyst Khurram Pirov GitHub Profile" src="https://img.shields.io/github/followers/KhurramPirov?label=Entrepreneur%20and%20Friend%20Khurram%20Pirov&logo=github&style=for-the-badge">
+  <a/>
+
   <a href="https://github.com/luckybusted" target="_blank">
     <img alt="Digital Product Dev/Senior Ivan Ushmorov GitHub Profile" src="https://img.shields.io/github/followers/luckybusted?label=Ivan%20Ushmorov&logo=github&style=for-the-badge">
   <a/>
@@ -55,7 +59,7 @@
   <a/>
 </p>
 
-# Book a Meeting with Aleksei Dolgikh
+# How to contact Aleksei Dolgikh? Just PREPARE YOURSELF & Book a Meeting with Aleksei Dolgikh 
 
 ## Schedule a 15-Minute Meeting with Aleksei Dolgikh
 
@@ -206,15 +210,12 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
   <td>
-    <a href="https://www.buymeacoffee.com/alexdolbun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Aleksei Dolgikh @alexdolbun Buy Me A Coffee" width="250" >
     </a>
   </td>
   <td>
-    <a href="https://www.patreon.com/alexdolbun" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Aleksei Dolgikh @alexdolbun Patreon" width="250" >
     </a>
   </td>
       <td>
-    <a href="https://www.paypal.com/paypalme/alexdolbun" target="_blank"><img src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" alt="Aleksei Dolgikh @alexdolbun PayPal" width="250" >
     </a>
   </td>
   </tr>
@@ -299,11 +300,20 @@ unicornwitnessesgithub&utm_medium=social&utm_source=github.com" target="_blank">
 		  
 Unicorn witnesses: The international non-profit community of socially-relevant digital products creators (https://unicornwitnesses.com) 0 & Chief Visionary Officer & Co-Founder. 0 Gloc.al SEO leadgen in 100 plus countries and languages (http://He.Gloc.al) is a Search Engine Optimisation lead generation in 100 plus countries and languages 0 who in5 Dubai incubated Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF)
 	</p>
+
+ 
 	  
 <h2> 1. Introduction to Chief Visionary Officer Aleksei Dolgikh </h2>
 	  <p>
 Aleksei Dolgikh is the chief visionary officer at Community 0 Unicorn Witnesses – an international non-profit community of socially-relevant digital product creators – in addition to being a co-founder and the Gloc.al SEO lead generation in 100-plus countries and languages. He is currently based in Dubai, where he is incubating a Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF) are all part of his work as a CVO.
-	  </p>
+
+</br>
+ [1 million characters Aleksei Dolgikh 2025 Curriculum Vitae: Top Investor Relations, Community & Team Building, CVO Scout of Venture Capital, Private Equity, Multi Family Offices funds Managers, General Partners and Limited Partners](https://docs.google.com/document/d/1qMaH298dZrspBhEMeU-ZQHWpolTINuAa0Zu3p9xCMac/edit?usp=sharing)
+</p>
+
+![aleksei-dolgikh-stats-linkedin](https://github.com/user-attachments/assets/c3bce02e-5ad2-4cfe-85d1-11d03e109e3a)
+
+   
 <h2> 2. Chief Visionary Officer Aleksei Dolgikh's Career</h2>
 	<p>
 Aleksei Dolgikh has been in the technology industry for over a decade. His professional experience stretches from being part of the founding teams of some of the fastest-growing startups to #1 best selling mobile app in USA to leading CRM / Database implementation, from the innovative development of interactive television systems (analog and digital) to Award-winning web applications design and implementation. His experience covers a broad range of topics from software engineering and development, through research and mission-critical systems, to dream up insights related technology development.
@@ -329,4 +339,15 @@ Business Development activities and Projects Requirements Documentation constitu
 	<p>
 Aleksei Dolgikh is also heavily involved in Open Source Software (OSS) development having released dozens of projects over the last few years contributing to its scaling while helping third party technology partners to integrate OSS solutions into their IoT ecosystems in order to enable machines to communicate amongst each other without human intervention or manual overrides up until making informed decisions according to their own individual context. 
 	  </p>
+<h2> 8. Aleksei Dolgikh's Personal Debt with Venture Capital Investors Liquidity and Startup Employeers Selary Crisis </h2>
+	<p>
+		In the end of September 2024 we as team and after couple of months as eveerything go wrong (from In5 Dubai & TECOM Group by Dubai Holding fees that we unable to pay because we run out of money, to series of my mistakes that I will write that put me in situation wen I have nothing to eat and feed family again, all because I just was ... I don't know, stupid enough to ignore situation till this strange moment. 
+	</br>
+ All begin in the begining of 2022 wen I was goin deep into Nonprofit community building, finished some work on big close to central bank software B2B companies/bank and I was going deep into NFT as big fan of contemporary art and through Instagram I was texted by [Oleg Levitas](https://www.instagram.com/oleg.levitas/) ([local SEO Agency Pravda SEO owner in New York City](https://www.realresultsseo.com/)) 
 
+ ![oleg-levitas-richard-branson](https://github.com/user-attachments/assets/550856c1-71fa-42b2-9917-c1485c8f4ba7) ![oleg-levitas-shark-daymond-john](https://github.com/user-attachments/assets/475c7d89-2f5d-482b-9f6b-7b04341da736) 
+ 
+ Oleg Levitas offer me to invest 20k USD with his friend who's name I lost somehow, sorry man, in crazy NFT ideas in order to earn from investments those time when NFT was growing and multiply on thos investments, I made a lot of buys in on all of those money but series of mistakes (those time I don't know that for example reper Kodak Black who promote a lot of times through socials NFT collection Cosmos Kidz NFT that has strong whitepaper and Kodak Black team support will scam people on 1,5 million USD ...) I't ass my fault I understand and accept it, as well in the same time we were in Moscow those time and wen in 2022 Russian-Ukrain happaned I decide to move out of Russia in Abu Dhabi and after wen process of NFT investments was ongoing we was in process of fundrising for Unicorn Witnesees Nonprofit in Abu Dhabi and all my accounts internatioanlly with money was banned because of Russian Passport we deside to move in New Dheli and open there business on name of Harshit Saini 
+
+ 
+</p>
