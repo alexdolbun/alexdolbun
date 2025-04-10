@@ -29,7 +29,9 @@
 	<a href="https://github.com/KhurramPirov/" target="_blank">
     <img alt="Product analyst Khurram Pirov GitHub Profile" src="https://img.shields.io/github/followers/KhurramPirov?label=Entrepreneur%20and%20Friend%20Khurram%20Pirov&logo=github&style=for-the-badge">
   <a/>
-
+<a href="https://github.com/polRk/" target="_blank">
+    <img alt="Product analyst Vladislav Polyakov GitHub Profile" src="https://img.shields.io/github/followers/polRk?label=Vladislav%20Polyakov%20Friend%20and%20Technical%20Director%20and%20Senior%20Software%20Engineer&logo=github&style=for-the-badge">
+  <a/>
   <a href="https://github.com/luckybusted" target="_blank">
     <img alt="Digital Product Dev/Senior Ivan Ushmorov GitHub Profile" src="https://img.shields.io/github/followers/luckybusted?label=Ivan%20Ushmorov&logo=github&style=for-the-badge">
   <a/>
