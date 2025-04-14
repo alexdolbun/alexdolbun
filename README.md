@@ -224,6 +224,8 @@
 </table>
 
 
+
+
 ---
 		
 ## My dear teammates websites :		
@@ -349,7 +351,31 @@ Aleksei Dolgikh is also heavily involved in Open Source Software (OSS) developme
 
  ![oleg-levitas-richard-branson](https://github.com/user-attachments/assets/550856c1-71fa-42b2-9917-c1485c8f4ba7) ![oleg-levitas-shark-daymond-john](https://github.com/user-attachments/assets/475c7d89-2f5d-482b-9f6b-7b04341da736) 
  
- Oleg Levitas offer me to invest 20k USD with his friend who's name I lost somehow, sorry man, in crazy NFT ideas in order to earn from investments those time when NFT was growing and multiply on thos investments, I made a lot of buys in on all of those money but series of mistakes (those time I don't know that for example reper Kodak Black who promote a lot of times through socials NFT collection Cosmos Kidz NFT that has strong whitepaper and Kodak Black team support will scam people on 1,5 million USD ...) I't ass my fault I understand and accept it, as well in the same time we were in Moscow those time and wen in 2022 Russian-Ukrain happaned I decide to move out of Russia in Abu Dhabi and after wen process of NFT investments was ongoing we was in process of fundrising for Unicorn Witnesees Nonprofit in Abu Dhabi and all my accounts internatioanlly with money was banned because of Russian Passport we deside to move in New Dheli and open there business on name of Harshit Saini 
+ Oleg Levitas offer me to invest 20k USD with his friend who's name I lost somehow, sorry man, in crazy NFT ideas in order to earn from investments those time when NFT was growing and multiply on thos investments, I made a lot of buys in on all of those money but series of mistakes (those time I don't know that for example reper Kodak Black who promote a lot of times through socials NFT collection Cosmos Kidz NFT that has strong whitepaper and Kodak Black team support will scam people on 1,5 million USD ...) I't ass my fault I understand and accept it, as well in the same time we were in Moscow those time and wen in 2022 Russian-Ukrain happaned I decide to move out of Russia in Abu Dhabi and after wen process of NFT investments was ongoing we was in process of fundrising for Unicorn Witnesees Nonprofit in Abu Dhabi and all my accounts internatioanlly with money was banned because of Russian Passport we deside to move in New Dheli, India and open there business on name of Harshit Saini ... (here's crazy f*ckup) and I owe to Oleg Levitas ~30k$ + x2 for moral damage after another my f*ckup with $80k ... (this part in process)
+
+</br>
+
+Part with Ilya Krivirot 
+
+~$12k cash (transfers was in RUB not USD, but it's ok) and ~5k$ services by SVS (here's not ok, Olga Nayda was stressed by SVS CFO those time need to find his name) 
+
+</br>
+
+24SIX9.com story
+
+</br>
+
+Part with SOYUZniki experts club by Alex Butmanov
+
+~$30k cash 
+
+
+</br>
+
+Michael Rashid
+
+~$2k cash and $45k virtually in contracts 
+
 
  
 </p>
