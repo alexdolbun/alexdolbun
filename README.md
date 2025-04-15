@@ -312,7 +312,18 @@ Unicorn witnesses: The international non-profit community of socially-relevant d
 Aleksei Dolgikh is the chief visionary officer at Community 0 Unicorn Witnesses – an international non-profit community of socially-relevant digital product creators – in addition to being a co-founder and the Gloc.al SEO lead generation in 100-plus countries and languages. He is currently based in Dubai, where he is incubating a Search Engine Optimisation & Localisation & Serverless $ TAM 21.8 trillion Glocal Business to Business Software as a Service. The Information Technology Infrastructure Library (ITIL), Business Development, Requirements / Documentation, One-on-one, Open Source Software (OSS), The Cloud Native Computing Foundation (CNCF) are all part of his work as a CVO.
 
 </br>
- [1 million characters Aleksei Dolgikh 2025 Curriculum Vitae: Top Investor Relations, Community & Team Building, CVO Scout of Venture Capital, Private Equity, Multi Family Offices funds Managers, General Partners and Limited Partners](https://docs.google.com/document/d/1qMaH298dZrspBhEMeU-ZQHWpolTINuAa0Zu3p9xCMac/edit?usp=sharing)
+ Aleksei Dolgikh 2025 Curriculum Vitae: Top Investor Relations, Community & Team Building, CVO Scout of Venture Capital, Private Equity, Multi Family Offices funds Managers, General Partners and Limited Partners 
+
+ 
+ 
+https://docs.google.com/document/d/1qMaH298dZrspBhEMeU-ZQHWpolTINuAa0Zu3p9xCMac/edit?usp=sharing 
+
+</br>
+
+On russian language: Биография Алексея Долгих 2025: Ведущий специалист по связям с инвесторами, развитию сообществ и тимбилдинга, специалист по венчурному капиталу, частным инвестициям, yправляющим фондами мультисемейных офисов, генеральным партнерам и партнерам с ограниченной ответственностью
+
+https://docs.google.com/document/d/1mIIgj88uHfB3LutbXQfHIpx4VGSciGzKsrq4y48wibc/edit?usp=sharing
+
 </p>
 
 ![aleksei-dolgikh-stats-linkedin](https://github.com/user-attachments/assets/c3bce02e-5ad2-4cfe-85d1-11d03e109e3a)
