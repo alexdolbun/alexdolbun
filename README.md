@@ -354,10 +354,17 @@ Business Development activities and Projects Requirements Documentation constitu
 	<p>
 Aleksei Dolgikh is also heavily involved in Open Source Software (OSS) development having released dozens of projects over the last few years contributing to its scaling while helping third party technology partners to integrate OSS solutions into their IoT ecosystems in order to enable machines to communicate amongst each other without human intervention or manual overrides up until making informed decisions according to their own individual context. 
 	  </p>
-<h2> 8. Aleksei Dolgikh's Personal Debt with Venture Capital Investors Liquidity and Startup Employeers Selary Crisis </h2>
+<h2> 8. Aleksei Dolgikh's Personal Debt with Venture Capital Investors Liquidity and MY Startups Employeers Selary Crisis [WILL GIVE BACK, IN PROGRESS!!] </h2>
 	<p>
-		In the end of September 2024 we as team and after couple of months as eveerything go wrong (from In5 Dubai & TECOM Group by Dubai Holding fees that we unable to pay because we run out of money, to series of my mistakes that I will write that put me in situation wen I have nothing to eat and feed family again, all because I just was ... I don't know, stupid enough to ignore situation till this strange moment. 
+		In the end of September 2024 we as team and after couple of months as everything go wrong (from In5 Dubai & TECOM Group by Dubai Holding fees that we unable to pay because we run out of money, to series of my mistakes that I will write that put me in situation wen I have nothing to eat and feed family again, all because I just was ... I don't know, stupid enough to ignore situation till this strange moment... 
+		</br>
+		<h1> I'M ALEKSEI DOLGIKH, EXOSTED, ALONE AND COMPLITELY DRY AND BROKE (!) KEEP IT IN MIND </h1>
 	</br>
+
+Let's go back into 2020 ... IN PROGRESS ...
+
+</br>
+ 
  All begin in the begining of 2022 wen I was goin deep into Nonprofit community building, finished some work on big close to central bank software B2B companies/bank and I was going deep into NFT as big fan of contemporary art and through Instagram I was texted by [Oleg Levitas](https://www.instagram.com/oleg.levitas/) ([local SEO Agency Pravda SEO owner in New York City](https://www.realresultsseo.com/)) 
 
  ![oleg-levitas-richard-branson](https://github.com/user-attachments/assets/550856c1-71fa-42b2-9917-c1485c8f4ba7) ![oleg-levitas-shark-daymond-john](https://github.com/user-attachments/assets/475c7d89-2f5d-482b-9f6b-7b04341da736) 
@@ -368,7 +375,9 @@ Aleksei Dolgikh is also heavily involved in Open Source Software (OSS) developme
 
 Part with Ilya Krivirot 
 
-~$12k cash (transfers was in RUB not USD, but it's ok) and ~5k$ services by SVS (here's not ok, Olga Nayda was stressed by SVS CFO those time need to find his name) 
+~$12k cash (transfers was in RUB not USD, but it's ok) and ~5k$ services by SVS (here's not ok, Olga Nayda was stressed by SVS CFO those time need to find his name) ...
+
+IN PROGRESS ... 
 
 </br>
 
@@ -387,8 +396,46 @@ Michael Rashid
 
 ~$2k cash and $45k virtually in contracts 
 
+</br>
+
+![sarah-sajwani-damac](https://github.com/user-attachments/assets/cb6f0c20-ca20-4419-bea4-552e8bd4118b)
+
+
 Sarah Sajwani 
 
-~$3k cash and wirtually ~$30k
+~$3k cash and virtually ~$30k
+
+</br>
+
+Khurram Pirov 
+
+2.8k$ cash USD for support in hard times
+
+![khurram-pirov](https://github.com/user-attachments/assets/0cf19a8c-15c2-4b84-9287-d38041f12296)
+
+
+</br>
+
+Den Gudkov
+
+1k$ cash USD turn back money for job that I didn't have chanse to finish because of my health issues 
+
+</br>
+
+Kirill Martinenko 
+
+6k$ cash USD for CTO job under the projects 
+
+</br>
+
+Timur Kadirov 
+
+2k$ cash for job 
+
+</br>
+
+Shokrukh Tursunbaev 
+
+2k$ cash for job 
  
 </p>
