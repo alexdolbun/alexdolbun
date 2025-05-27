@@ -61,6 +61,28 @@
   <a/>
 </p>
 
+## Aleksei DOLGIKH Skills 
+Through years since 2008 wen I build my first casino and automate for $ small JavaScript browser games, to GEOInformatics Systems Bachelor between 2012-2016 with a lot of Python and Computer Vision with C/C++  optimisation and 2 winnings of 1st place on Geoinformatic competition in university in 2014 and 2015 to JavaScript and Python in 
+
+💪🏼 Strong Software Quality Assurance (Reliability engineering, Efficiency, Security, Maintainability, Size)
+🗣 Agile • Scrum • Kanban
+🔄 Continuous integration (CI) / delivery (CD) pipeline (Jenkins, TFS, Azure DevOps, TeamCity, Gitlab, AWS, DO, etc.)
+🤖 Test Automation (Selenium, Appium, Selenium-Grid, Serenity BDD, Selenide, WebDriver, JBehave, Cucumber, Specflow SwdPageRecorder, Cypress, Atata, robot framework, other screen analyze lib, etc.)
+🦄 Self-Hosted Qantized "Artificial Intelligence (AI)": mlx, llm.c, llama.cpp, [IN PROGRESS TESTED 100+]
+🧩 Development (hated OOP, C/C++, Zig, GO, Rust, GJava, CSharp, Python, SQL, XML, RegExp, XPath, HTML, CSS, JSON, DOM, JavaScript, Maven, Gradle, Pip, Chrome and other DevTools, etc.)
+🧬 GIT (Git, GitHub, GitLab, GitBash, GitGPT etc.)
+⌨️ IDE (Cursor, Warp, IntelliJ IDEA, Eclipse, Atom, Visual Studio Code, PyCharm, DataGrip etc.)
+🧾 Software Requirements Management (Confluence, Miro, etc.)
+🗂 Project management system (Jira, TFS, Asana, etc.)
+📚 Knowledgebase (Confluence, Wiki, other documentation generators, etc.)
+1️⃣ Unit test (JUnit, TestNG, unit test,  etc.)
+🏗 Containerization (Docker, Kubernetes, Aerocube tools (Selenoid, MP), Browser (Chrome, FF, Opera etc.) and OS (iOS, Android, other Unix-like, Windows etc.) in the container, etc.)
+🆗 Acceptance testing (Selenide, Thucydides, Robot Framework, etc.)
+📝 Automated reporting (Allure, Cucumber report other need team collaboration software integration etc.)
+🎉 Performance testing (System-wide analytics, Yandex tank (and different tools inside), Jmeter, N-Stalker, etc.)
+👻 Proxy/sniffer (BrowserMobProxy, LittleProxy, Jmeter, etc.)
+🦾 API (Postman, Swagger, REST-assured etc.)
+
 # How to contact Aleksei Dolgikh? Just PREPARE YOURSELF & Book a Meeting with Aleksei Dolgikh 
 
 ## Schedule a 15-Minute Meeting with Aleksei Dolgikh
